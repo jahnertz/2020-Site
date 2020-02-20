@@ -1,4 +1,5 @@
 ## XX XX (2020) Manila Website
+Visit the site [here](https://jahnertz.github.io/2020-Site/).
 
 Editing the site locally:
 ```sh
